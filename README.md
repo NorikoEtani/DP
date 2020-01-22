@@ -1,11 +1,16 @@
 # DP
 作成日：2020年1月1日
 
+改訂日：2020年1月23日
+
 作成者：江谷典子
 
 電子メール：kerotan@kcn.ne.jp
 
 社団法人情報処理学会のデジタルプラクティス報告「オープンソースによるTwitter検索およびデータ可視化の方法」を読んで必要なライブラリやモジュールをインストールし，プログラムを御利用ください．
+
+情報処理学会情報学広場URL　https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=202959&item_no=1&page_id=13&block_id=8
+
 
 【目的】
 
